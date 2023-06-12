@@ -1,0 +1,10 @@
+.idea
+*.iml
+target
+.DS_Store
+.allure/
+ui-tests/build/*
+ui-tests/src/test/resources/app/
+ui-tests/src/test/resources/app
+build
+allure-results
